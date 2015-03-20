@@ -1,9 +1,7 @@
 /*******************************************************
  * Header File for Traffic Signal Simulation Add-on Card
  * for GPIO PIN Configurations and Other Definitions
- ********************************************************
- * Developed by MicroEmbedded Technologies
- *******************************************************/
+ ********************************************************/
 
 /*
  * NOTE About BBB GPIO Pin Numbering
