@@ -2,8 +2,6 @@
 # * Python File for Lift Operation Simulation Add-on Card
 # * for GPIO PIN Configurations and Other Definitions
 ##########################################################
-# * Developed by MicroEmbedded Technologies
-##########################################################
 
 LED_1	=	(0 * 32) + 3		
 LED_2	=	(0 * 32) + 23		
