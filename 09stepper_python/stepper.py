@@ -3,9 +3,7 @@
 # * Python code for Driving a Stepper Motor Card using
 # * Beaglebone Black running Debian 7 Linux distribution
 ##########################################################
-# * Developed by MicroEmbedded Technologies
-##########################################################
- 
+
 
 import sys
 import time
