@@ -1,9 +1,7 @@
 /*******************************************************
  * Header File for GPIO Functions for Baglebone Black
  * running Debian 7 Linux distribution
- ********************************************************
- * Developed by MicroEmbedded Technologies
- *******************************************************/
+ ********************************************************/
 
 #ifndef _GPIO_H_
 #define _GPIO_H_
