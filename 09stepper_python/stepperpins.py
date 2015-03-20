@@ -2,8 +2,6 @@
 # * Python File for Stepper Motor Add-on Card
 # * for GPIO PIN Configurations and Other Definitions
 ##########################################################
-# * Developed by MicroEmbedded Technologies
-##########################################################
 
 LED_9	=	(0 * 32) + 30		#P9_11
 LED_10	=	(2 * 32) + 2		#P8_07
