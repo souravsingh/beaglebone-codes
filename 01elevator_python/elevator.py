@@ -3,9 +3,7 @@
 # * Python code for Traffic Signal Simulation using
 # * Beaglebone Black running Debian 7 Linux distribution
 ##########################################################
-# * Developed by MicroEmbedded Technologies
-##########################################################
- 
+
 
 import sys
 import time
