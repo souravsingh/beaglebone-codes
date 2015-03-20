@@ -1,10 +1,7 @@
 /*******************************************************
  * C++ Example code for Traffic Signal Simulation using
  * Beaglebone Black running Debian 7 Linux distribution
- ********************************************************
- * Developed by MicroEmbedded Technologies
- *******************************************************/
-
+ ********************************************************/
 #include<iostream>
 #include<fstream>
 #include<string>
