@@ -2,8 +2,6 @@
 # * Python GPIO Functions for Traffic Signal Simulation
 # * using Baglebone Black running Debian 7 Linux distribution
 ##########################################################
-# * Developed by MicroEmbedded Technologies
-##########################################################
 
 import sys
 import os
