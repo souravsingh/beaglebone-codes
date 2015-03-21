@@ -1,10 +1,8 @@
 /*******************************************************
  * C++ Example code for Lift Operation Simulation using
  * Beaglebone Black running Debian 7 Linux distribution
- ********************************************************
- * Developed by MicroEmbedded Technologies
- *******************************************************/
-
+ ********************************************************/
+ 
 /* Standard C Header Files */
 #include <stdio.h>
 #include <stdlib.h>
