@@ -4,8 +4,6 @@
 # * a FTP Client application to upload file on the server 
 # * using Beaglebone Black running Debian 7 Linux distribution
 ###############################################################
-# * Developed by MicroEmbedded Technologies
-###############################################################
 
 import socket, struct, fcntl
 import ftplib
