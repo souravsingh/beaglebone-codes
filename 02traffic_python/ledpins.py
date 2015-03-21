@@ -2,8 +2,6 @@
 # * Python File for Traffic Signal Simulation Add-on Card
 # * for GPIO PIN Configurations and Other Definitions
 ##########################################################
-# * Developed by MicroEmbedded Technologies
-##########################################################
 
 
 LED_1	=	(0 * 32) + 3		
