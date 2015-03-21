@@ -2,10 +2,7 @@
 /*******************************************************
  * Header File for Lift Simulation Add-on Card for
  * GPIO PIN Configurations and Other Definitions
- ********************************************************
- * Developed by MicroEmbedded Technologies
- *******************************************************/
-
+ ********************************************************/
 /*
  * NOTE About BBB GPIO Pin Numbering
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
